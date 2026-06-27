@@ -14,6 +14,8 @@ A FinLend enfrenta três desafios simultâneos: falta de autonomia das áreas de
 #### Parte 1 — Self-Service BI
 Dashboard desenvolvido no Looker Studio com visão geral da carteira, indicadores de inadimplência, perfil dos tomadores e filtros interativos. A fonte de dados é uma amostra limpa exportada do notebook.
 
+<img width="3750" height="3875" alt="FinLend___Carteira_de_Crédito_gif" src="https://github.com/user-attachments/assets/85053965-d585-4455-a871-31d1f49ca120" />
+
 #### Parte 2 — Análise Estatística com Python
 Análise exploratória completa da inadimplência com investigação da hipótese do Head de Risco ("a inadimplência está subindo porque estamos aprovando muitos empréstimos de graus D e E"), testes de hipótese (qui-quadrado, teste z de proporções e Mann-Whitney), insight não óbvio sobre seleção adversa via precificação e recomendação ao negócio.
 
